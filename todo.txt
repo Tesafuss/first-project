@@ -1,1 +1,2 @@
 1) пройти пару уроков на git
+2)Practise for git
